@@ -1,0 +1,14 @@
+# Eclipse workspace
+.metadata/
+
+# Build output
+**/Debug/
+**/Release/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
